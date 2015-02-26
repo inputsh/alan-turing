@@ -10,7 +10,9 @@ He was sentenced to hormonal therapy because he was convicted as a homosexual (s
 
 British Prime Minister Gordon Brown made an [official public apology](http://www.telegraph.co.uk/news/politics/gordon-brown/6170112/Gordon-Brown-Im-proud-to-say-sorry-to-a-real-war-hero.html) to Alan Turing on behalf of the British government in 2009. Queen Elizabeth granted him a [posthumous pardon](http://cryptome.org/2013/12/turing-pardon.pdf) in 2013.
 
-## Papers
+## Papers by Alan Turing
+
+The list of papers published by Alan Turing during his life. This list is arranged in the chronological order.
 
 * [Equivalence of left and right almost periodicity](http://www.turingarchive.org/browse.php/B/10) (1935)
 * [Computability and λ-Definability](http://www.turingarchive.org/browse.php/B/11) (1937)
@@ -38,12 +40,12 @@ A short [biography of Alan Turing](http://www.turing.org.uk/bio/index.html) is w
 
 ## Books
 
-#### About Alan Turing:
+About Alan Turing:
 
 * [Alan Turing: The Enigma](https://www.goodreads.com/book/show/150731.Alan_Turing) by Andrew Hodges. Originally published in 1983. The latest edition is from 2014. This book inspired the movie The Imitation Game (2014).
 * [Turing: Pioneer of the Information Age (2014)](https://global.oup.com/academic/product/turing-9780198719182) by Jack Copeland
 
-#### Multiple Mentions of Alan Turing:
+Multiple Mentions of Alan Turing:
 
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig
 * [2030 - WIll Computers Become Human?](http://www.amazon.com/2030-Computers-Become-Human-Series-ebook/dp/B00R0FQOZS) by Peter Bornstein
