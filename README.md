@@ -4,9 +4,9 @@ This is the collection of links and papers where you can learn more about Alan T
 
 ![image](http://www.independent.co.uk/incoming/article9023177.ece/alternates/w620/turing-rx.jpg)
 
-[Alan Mathison Turing](https://en.wikipedia.org/wiki/Alan_Turing) (23 June 1912 - 7 June 1954) was one of the pioneers in today's technology. He had some key contributions in breaking the [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine) during the World War II, which had a huge impact on the result of World War II. He also pioneered the work in Artificial Intelligence, where he was the first one to discuss the ways of replicating human brain inside of a machine. His papers remain relevant today in this field, 60 years after they were published. [Turing test](https://en.wikipedia.org/wiki/Turing_test) (a test which is used to determine is a machine really intelligent) was named after him.
+[Alan Mathison Turing](https://en.wikipedia.org/wiki/Alan_Turing) (23 June 1912 - 7 June 1954) was one of the pioneers in today's technology. He had some key contributions in breaking the [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine) during the World War II, which had a huge impact on the result of World War II. He also [pioneered the work in Artificial Intelligence](http://m.bbc.com/news/technology-18475646) (even before the term Artificial Intelligence was established), where he was the first one to discuss the ways of replicating human brain inside of a machine. His papers remain relevant today in this field, 60 years after they were published. [Turing test](https://en.wikipedia.org/wiki/Turing_test) (a test which is used to determine is a machine intelligence really indistinguishable from human intelligence) was named after him.
 
-He was sentenced to hormonal therapy because he was convicted as a homosexual (something that was illegal back then in the UK). He died two years later. Even though it was believed that he had committed suicide, Jack Copeland (the author of a book I will mention later) is not so sure.
+He was sentenced to hormonal therapy because he was convicted as a homosexual (something that was illegal back then in the UK). He died two years later. Even though it was believed that he had committed suicide, Jack Copeland (the author of a book I will mention later) [is not so sure](http://m.bbc.com/news/science-environment-18561092).
 
 British Prime Minister Gordon Brown made an [official public apology](http://www.telegraph.co.uk/news/politics/gordon-brown/6170112/Gordon-Brown-Im-proud-to-say-sorry-to-a-real-war-hero.html) to Alan Turing on behalf of the British government in 2009. Queen Elizabeth granted him a [posthumous pardon](http://cryptome.org/2013/12/turing-pardon.pdf) in 2013.
 
@@ -50,7 +50,7 @@ A short [biography of Alan Turing](http://www.turing.org.uk/bio/index.html) is w
 
 ## Movies
 
-The movie [The Imitation Game (2014)](http://www.imdb.com/title/tt2084970/) tried to show Turing's contributions during the World War II. It received an  Oscar award for the Best Writing Adapted Screenplay in the [87th Academy Awards](http://en.wikipedia.org/wiki/87th_Academy_Awards). The movie has some controversy attached to his historical accuracy, as described in this [Wikipedia article](https://en.wikipedia.org/wiki/The_Imitation_Game#Controversy).
+The movie [The Imitation Game (2014)](http://www.imdb.com/title/tt2084970/) tried to show Turing's contributions during the World War II. It received an  Oscar award for the Best Writing Adapted Screenplay in the [87th Academy Awards](http://en.wikipedia.org/wiki/87th_Academy_Awards). The movie has some controversy attached to his historical accuracy, as described [here](https://en.wikipedia.org/wiki/The_Imitation_Game#Controversy) and [here](http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/).
 
 ## Is Turing Test Passed?
 
